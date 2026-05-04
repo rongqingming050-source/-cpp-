@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int count=0;
+	for(int i=0;i<=100;i++){
+		for(int j=0;j<=50;j++){
+			for(int k=0;k<=20;k++){
+				if(100==i+2*j+5*k){
+					count++;
+					cout<<"一分"<<i<<"个"<<"两分"<<j<<"个"<<"五分"<<k<<"个"<<endl;
+				}
+			}
+		}
+	}
+	cout<<count<<endl;
+}
