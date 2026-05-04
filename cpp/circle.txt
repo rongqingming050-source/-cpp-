@@ -1,0 +1,14 @@
+Circle created - Center: (0, 0), Radius: 1
+Circle created - Center: (2, 3), Radius: 5
+Circle copied - Center: (2, 3), Radius: 5
+Circle created - Center: (2, 3), Radius: 10
+Circle created - Center: (2, 3), Radius: 0
+Circle copied - Center: (0, 0), Radius: 2
+Circle created - Center: (0, 0), Radius: 1
+Circle created - Center: (0, 0), Radius: 1
+Circle created - Center: (2, 3), Radius: 5
+Circle copied - Center: (2, 3), Radius: 5
+Circle created - Center: (2, 3), Radius: 10
+Circle created - Center: (2, 3), Radius: 0
+Circle copied - Center: (0, 0), Radius: 2
+Circle created - Center: (0, 0), Radius: 1
